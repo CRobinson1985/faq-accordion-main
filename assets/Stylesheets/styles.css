@@ -81,7 +81,7 @@ h5:hover {
   body {
     height: 100vh;
     align-content: space-around;
-    background-image: url(assets/images/background-pattern-mobile.svg);
+    background-image: url('assets/images/background-pattern-mobile.svg');
   }
   #faq-text {
     font-size: 33px;
