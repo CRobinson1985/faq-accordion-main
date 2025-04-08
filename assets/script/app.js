@@ -12,11 +12,11 @@ console.log(questionText);
 const swapItems = (button, text) => {
   if (button.className === "plus-img") {
     button.className = "minus-img";
-    button.src = "/assets/images/icon-minus.svg";
+    button.src = "assets/images/icon-minus.svg";
     text.style.display = "block";
   } else if (button.className === "minus-img") {
     button.className = "plus-img";
-    button.src = "/assets/images/icon-plus.svg";
+    button.src = "assets/images/icon-plus.svg";
     text.style.display = "none";
   }
 }
