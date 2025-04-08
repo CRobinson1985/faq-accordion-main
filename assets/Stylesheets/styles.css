@@ -23,6 +23,7 @@ body {
   border-radius: 15px;
   padding: 3%;
   box-shadow: 0px 10px 50px hsla(293, 33%, 68%, 0.5);
+  font-size: 16px;
   
 }
 #faq-head {
